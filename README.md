@@ -1,2 +1,2 @@
-# global-webpack-plugin
+# variable-webpack-plugin
 webpack lets node and client inject any global variables

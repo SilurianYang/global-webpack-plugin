@@ -1,0 +1,1 @@
+console.log([{'name':'hhyang','ages':23}]),console.log(true),console.log('true'),console.log('1784848'),console.log(11212),console.log(''),console.log({'name':'hhyang','ages':23});
